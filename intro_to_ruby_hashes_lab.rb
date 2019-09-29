@@ -1,14 +1,11 @@
 def base_hash
  base_hash = {
-   railroads: {}
+   key:
  }
 end
 
 def monopoly_with_second_tier
-  base_hash = {
-  railroads: {pieces: 4}
-  
-  }
+ 
 end
 
 def monopoly_with_third_tier
